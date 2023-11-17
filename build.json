@@ -1,0 +1,15 @@
+{"build": [
+    {
+      "id": 4,
+      "heading": "Write To Build",
+      "subheading": "Writing is the first step to create:",
+      "steps": [
+        {
+          "first": "- stories",
+          "second": "- products",
+          "third": "- companies"
+        }
+      ]
+    }
+  ]
+}
